@@ -1,13 +1,12 @@
-/*
 package ruu.mazoraitems.Items;
 
 import net.minecraft.item.Item;
 
-public class BronzeCoin extends Item {
+public class BronzeCoinItem extends Item {
 
 
-    public BronzeCoin(Settings settings) {
+    public BronzeCoinItem(Settings settings) {
         super(settings);
     }
 }
-*/
+

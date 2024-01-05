@@ -15,7 +15,8 @@ public class ModItemGroups {
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.mazoraitemsgroup"))
                     .icon(() -> new ItemStack(ModItems.bronzeCoin)).entries((displayContext, entries) -> {
                         entries.add(ModItems.bronzeCoin);
-
+                        entries.add(ModItems.woodenBucket);
+                        entries.add(ModItems.woodenPoopBucket);
 
                     }).build());
 

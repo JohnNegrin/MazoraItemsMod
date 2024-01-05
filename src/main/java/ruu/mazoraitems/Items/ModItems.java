@@ -12,7 +12,9 @@ import ruu.mazoraitems.MazoraItemsMod;
 
 public class ModItems {
 
-    public static final Item bronzeCoin = registerItem("bronze_coin", new Item(new FabricItemSettings()));
+    public static final Item bronzeCoin = registerItem("bronze_coin", new BronzeCoinItem(new FabricItemSettings()));
+    public static final Item woodenBucket = registerItem("wooden_bucket", new WoodenBucketItem(new FabricItemSettings()));
+    public static final Item woodenPoopBucket = registerItem("wooden_poop_bucket", new WoodenPoopBucketItem(new FabricItemSettings()));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(MazoraItemsMod.modID, name), item);

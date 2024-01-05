@@ -1,5 +1,7 @@
 {
   "item.mazoraitems.bronze_coin": "Bronze Coin",
+  "item.mazoraitems.wooden_bucket": "Wooden Bucket",
+  "item.mazoraitems.wooden_poop_bucket": "Wooden Bucket of Poop",
 
   "itemgroup.mazoraitemsgroup": "Mazora Item Group"
 }
