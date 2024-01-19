@@ -10,7 +10,7 @@ import ruu.mazoraitems.items.trinketItems.AriphronFarmerPendantItem;
 
 public class ModItems {
 
-    public static final Item bronzeCoin = registerItem("bronze_coin", new BronzeCoinItem(new FabricItemSettings().maxCount(99)));
+    public static final Item bronzeCoin = registerItem("bronze_coin", new BronzeCoinItem(new FabricItemSettings()));
     public static final Item woodenBucket = registerItem("wooden_bucket", new WoodenBucketItem(new FabricItemSettings()));
     public static final Item woodenPoopBucket = registerItem("wooden_poop_bucket", new WoodenPoopBucketItem(new FabricItemSettings()));
     public static final Item woodenMug = registerItem("wooden_mug", new WoodenMugItem(new FabricItemSettings()));
