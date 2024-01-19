@@ -2,6 +2,12 @@
   "item.mazoraitems.bronze_coin": "Bronze Coin",
   "item.mazoraitems.wooden_bucket": "Wooden Bucket",
   "item.mazoraitems.wooden_poop_bucket": "Wooden Bucket of Poop",
+  "item.mazoraitems.wooden_mug": "Wooden Mug",
+  "item.mazoraitems.farmers_ale": "Farmer's Ale",
+  "item.mazoraitems.ariphron_farmer_pendant": "Ariphron Farmer Pendant",
+  "itemgroup.mazoraitemsgroup": "Mazora Item Group",
 
-  "itemgroup.mazoraitemsgroup": "Mazora Item Group"
+  "effect.mazoraitems.tipsy": "Tipsy"
+
+
 }

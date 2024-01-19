@@ -1,4 +1,4 @@
-package ruu.mazoraitems.Items;
+package ruu.mazoraitems.items;
 
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.LivingEntity;
@@ -8,8 +8,6 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemUsage;
 import net.minecraft.util.ActionResult;
 import net.minecraft.util.Hand;
-import net.minecraft.util.TypedActionResult;
-import net.minecraft.world.World;
 
 
 public class WoodenBucketItem extends Item {

@@ -1,4 +1,4 @@
-package ruu.mazoraitems.Items;
+package ruu.mazoraitems.items;
 
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
@@ -17,7 +17,9 @@ public class ModItemGroups {
                         entries.add(ModItems.bronzeCoin);
                         entries.add(ModItems.woodenBucket);
                         entries.add(ModItems.woodenPoopBucket);
-
+                        entries.add(ModItems.woodenMug);
+                        entries.add(ModItems.farmersAle);
+                        entries.add(ModItems.ariphronFarmerPendant);
                     }).build());
 
     public static void registerItemGroups() {

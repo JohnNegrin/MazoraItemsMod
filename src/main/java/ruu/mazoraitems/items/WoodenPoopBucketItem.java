@@ -1,4 +1,4 @@
-package ruu.mazoraitems.Items;
+package ruu.mazoraitems.items;
 
 import net.minecraft.item.Item;
 

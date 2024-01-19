@@ -1,0 +1,9 @@
+{
+  "condition": "mazoraitems:is_in_inventory",
+  "predicate": {
+    "items": [
+      "minecraft:written_book"
+    ],
+    "nbt": "{title:\"The Pillars\"}"
+  }
+}

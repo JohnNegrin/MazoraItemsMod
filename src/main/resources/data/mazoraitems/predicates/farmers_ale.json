@@ -1,0 +1,8 @@
+{
+  "condition": "mazoraitems:is_in_inventory",
+  "predicate": {
+    "items": [
+      "mazoraitems:farmers_ale"
+    ]
+  }
+}
